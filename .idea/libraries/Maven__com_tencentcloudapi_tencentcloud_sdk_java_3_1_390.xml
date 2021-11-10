@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.tencentcloudapi:tencentcloud-sdk-java:3.1.390">
+    <CLASSES>
+      <root url="jar://D:/maven/repository/com/tencentcloudapi/tencentcloud-sdk-java/3.1.390/tencentcloud-sdk-java-3.1.390.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven/repository/com/tencentcloudapi/tencentcloud-sdk-java/3.1.390/tencentcloud-sdk-java-3.1.390-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven/repository/com/tencentcloudapi/tencentcloud-sdk-java/3.1.390/tencentcloud-sdk-java-3.1.390-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/austin.iml" filepath="$PROJECT_DIR$/austin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/austin-common/austin-common.iml" filepath="$PROJECT_DIR$/austin-common/austin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/austin-handler/austin-handler.iml" filepath="$PROJECT_DIR$/austin-handler/austin-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/austin-service-api/austin-service-api.iml" filepath="$PROJECT_DIR$/austin-service-api/austin-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/austin-service-api-impl/austin-service-api-impl.iml" filepath="$PROJECT_DIR$/austin-service-api-impl/austin-service-api-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/austin-support/austin-support.iml" filepath="$PROJECT_DIR$/austin-support/austin-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/austin-web/austin-web.iml" filepath="$PROJECT_DIR$/austin-web/austin-web.iml" />
+    </modules>
+  </component>
+</project>
