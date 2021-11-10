@@ -1,3 +1,5 @@
+这是从java3y clone下来的项目,本人想学习一下,微信请关注公众号 Java3y  下面为Java3y的微信公众号地址。
+https://mp.weixin.qq.com/s/0ieNsDeZGBW8y0M2UqESzw
 ## 01、项目介绍
 
 austin项目**核心功能**：发送消息
